@@ -14,7 +14,7 @@ que o river cria o espaço de tuplas.após isso rode o arquivo Chat_Tuple_Space.
 aplicação.
 
 ### Features
-o chat conta com os seguintes funcionalidades.
-criação de salas
-envio de mensagens para todos usuários dentro de uma sala
-envio de mensagens em particular para um outro usuário dentro da sala
+
+* criação de salas
+* envio de mensagens para todos usuários dentro de uma sala
+* envio de mensagens em particular para um outro usuário dentro da sala
